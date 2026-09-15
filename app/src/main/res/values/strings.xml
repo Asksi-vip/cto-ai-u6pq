@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CTO AI</string>
+    <string name="welcome_text">مرحباً بك في CTO AI</string>
+    <string name="screen_title">الدردشة</string>
+    <string name="add_hint">أضف عنصر جديد…</string>
+    <string name="add_btn">إضافة</string>
+    <string name="feature_1">تحليل المنتجات</string>
+    <string name="feature_2">اقتراح معمارية</string>
+    <string name="feature_3">تقييم المخاطر</string>
+    <string name="feature_4">نصائح قيادية</string>
+</resources>
